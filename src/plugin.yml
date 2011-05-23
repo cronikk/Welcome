@@ -1,0 +1,12 @@
+name: Welcome
+main: com.elitecraft.cronikkk.welcome.Welcome
+version: 0.5
+author: cronikk
+
+commands:
+    welcome:
+        aliases:
+        description: update welcome message
+        usage: |
+                  /<command> <subcommand> <player>
+                  Example: /<command> homes
